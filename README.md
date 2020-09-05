@@ -1,6 +1,10 @@
 ThreadPool
 ==========
 
+C++11实现的线程池，支持任意参数列表的函数。
+
+进行了简单的注释和说明。
+
 A simple C++11 Thread Pool implementation.
 
 Basic usage:
